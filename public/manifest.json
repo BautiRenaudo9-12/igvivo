@@ -1,0 +1,22 @@
+{
+  "short_name": "IG Live",
+  "name": "Simulación IG Live",
+  "description": "App que simula transmisiones en vivo de Instagram con cámara, chat precargado y emojis flotantes.",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#ffffff",
+  "orientation": "portrait"
+}
